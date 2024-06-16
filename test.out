@@ -1,0 +1,41 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+KF287687.1           -          Bacteriocin_IIc      PF10439.12         1 -330.2 620.5         1   -5.3  22.7  21.9   1   1   8   9   9   9   0 Paramecium pentaurelia isolate 4_5 large subunit ribosomal RNA gene, partial sequence
+KF287687.1           -          BRINP                PF19052.3          1 -261.6 298.3         1  -12.1  10.6   8.7   2   2   7  11  11  11   0 Paramecium pentaurelia isolate 4_5 large subunit ribosomal RNA gene, partial sequence
+KF287687.1           -          Dehydrin             PF00257.22         1 -189.2 295.2         1  -45.2  60.0  12.1   1   1   1   3   3   3   0 Paramecium pentaurelia isolate 4_5 large subunit ribosomal RNA gene, partial sequence
+KF287687.1           -          DUF3482              PF11981.11         1 -308.2 416.7         1  -12.6  16.3  13.5   5   4   8  13  13  13   0 Paramecium pentaurelia isolate 4_5 large subunit ribosomal RNA gene, partial sequence
+KF287687.1           -          DUF4616              PF15394.9          1 -224.3 245.6         1   -6.5   2.6   7.6   6   4   3  11  11  11   0 Paramecium pentaurelia isolate 4_5 large subunit ribosomal RNA gene, partial sequence
+KF287687.1           -          DUF5585              PF17823.4          1 -161.5 340.9         1  -17.0  42.9   7.0   1   1   4   6   6   6   0 Paramecium pentaurelia isolate 4_5 large subunit ribosomal RNA gene, partial sequence
+KF287687.1           -          DUF726               PF05277.15         1 -252.8 336.1         1  -16.7  21.2  11.4   1   1  11  12  12  12   0 Paramecium pentaurelia isolate 4_5 large subunit ribosomal RNA gene, partial sequence
+KF287687.1           -          FSA_C                PF10479.12         1 -192.5 265.9         1   -7.0   6.0  10.3   2   2   8  11  11  11   0 Paramecium pentaurelia isolate 4_5 large subunit ribosomal RNA gene, partial sequence
+KF287687.1           -          GAGA_bind            PF06217.15         1 -152.0 168.6         1  -15.7  16.8   4.5   6   0   0   6   6   6   0 Paramecium pentaurelia isolate 4_5 large subunit ribosomal RNA gene, partial sequence
+KF287687.1           -          Herpes_capsid        PF06112.14         1 -217.2 380.4         1  -10.5  19.1  13.7   1   1  11  12  12  12   0 Paramecium pentaurelia isolate 4_5 large subunit ribosomal RNA gene, partial sequence
+KF287687.1           -          Keratin_2_head       PF16208.8          1 -187.4 446.0         1  -10.0  31.2  12.7   1   1   7   8   8   8   0 Paramecium pentaurelia isolate 4_5 large subunit ribosomal RNA gene, partial sequence
+KF287687.1           -          Med15                PF09606.13         1  -97.7 122.7         1   -8.8   7.9   4.8   2   1   4   6   6   6   0 Paramecium pentaurelia isolate 4_5 large subunit ribosomal RNA gene, partial sequence
+KF287687.1           -          Med3                 PF11593.11         1 -195.6 290.8         1  -12.4  16.0   9.9   2   2   7   9   9   9   0 Paramecium pentaurelia isolate 4_5 large subunit ribosomal RNA gene, partial sequence
+KF287687.1           -          NMDAR2_C             PF10565.12         1 -144.0 157.1         1   -9.3  12.1   5.0   3   1   0   3   3   3   0 Paramecium pentaurelia isolate 4_5 large subunit ribosomal RNA gene, partial sequence
+KF287687.1           -          Nucleoporin_FG2      PF15967.8          1 -259.3 463.2         1  -28.9  54.0   8.3   1   1   6   7   7   7   0 Paramecium pentaurelia isolate 4_5 large subunit ribosomal RNA gene, partial sequence
+KF287687.1           -          Orthopox_A5L         PF06193.14         1 -133.8 158.8         1  -13.6  16.8   5.9   6   0   0   6   6   6   0 Paramecium pentaurelia isolate 4_5 large subunit ribosomal RNA gene, partial sequence
+KF287687.1           -          PPE-SVP              PF12484.11         1 -144.1 232.9      0.35   -1.8   4.2  13.8   3   2   2   5   5   5   0 Paramecium pentaurelia isolate 4_5 large subunit ribosomal RNA gene, partial sequence
+KF287687.1           -          PRR18                PF15671.8          1 -373.5 557.0         1  -18.9  30.9  17.1   1   1  11  12  12  12   0 Paramecium pentaurelia isolate 4_5 large subunit ribosomal RNA gene, partial sequence
+KF287687.1           -          PT-VENN              PF04829.16         1 -301.5 395.9         1   -6.1   8.8  20.6   5   5   5  10  10  10   0 Paramecium pentaurelia isolate 4_5 large subunit ribosomal RNA gene, partial sequence
+KF287687.1           -          Ribosomal_L12_N      PF16320.8          1 -230.9 285.6      0.61   -3.8   2.9  15.3  13   4   0  13  13  13   0 Paramecium pentaurelia isolate 4_5 large subunit ribosomal RNA gene, partial sequence
+KF287687.1           -          Sporozoite_P67       PF05642.14         1 -183.5 260.4         1  -22.7  28.6   6.3   1   1   5   6   6   6   0 Paramecium pentaurelia isolate 4_5 large subunit ribosomal RNA gene, partial sequence
+KF287687.1           -          SseC                 PF04888.15         1 -192.7 270.5         1   -9.2  11.4  10.2   4   3   4   8   8   8   0 Paramecium pentaurelia isolate 4_5 large subunit ribosomal RNA gene, partial sequence
+KF287687.1           -          Tic110               PF16940.8          1 -212.5 275.0         1   -8.1   8.4  11.3   2   2   6   9   9   9   0 Paramecium pentaurelia isolate 4_5 large subunit ribosomal RNA gene, partial sequence
+KF287687.1           -          TPPII_N              PF12583.11         1 -181.0 278.1         1  -10.2  16.2  11.9   2   2   4   6   6   6   0 Paramecium pentaurelia isolate 4_5 large subunit ribosomal RNA gene, partial sequence
+KF287687.1           -          TraT                 PF05818.15         1 -213.1 295.2         1  -10.4  16.3  13.9   1   1   2   5   5   5   0 Paramecium pentaurelia isolate 4_5 large subunit ribosomal RNA gene, partial sequence
+KF287687.1           -          TrbL_3               PF19590.2          1 -228.9 345.8         1  -13.3  22.3  11.3   1   1   9  10  10  10   0 Paramecium pentaurelia isolate 4_5 large subunit ribosomal RNA gene, partial sequence
+KF287687.1           -          UCR_Fe-S_N           PF10399.12         1 -383.2 470.0      0.36   -3.4   0.1  26.2  20  10   5  25  25  25   0 Paramecium pentaurelia isolate 4_5 large subunit ribosomal RNA gene, partial sequence
+KF287687.1           -          YqfQ                 PF14181.9          1 -214.4 291.2         1   -4.8   6.5  15.3   1   1   1   3   3   3   0 Paramecium pentaurelia isolate 4_5 large subunit ribosomal RNA gene, partial sequence
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      Pfam-A.hmm
+# Target file:     paramecium_pentaurelia.fasta
+# Option settings: hmmsearch --tblout test.out Pfam-A.hmm paramecium_pentaurelia.fasta 
+# Current dir:     /content
+# Date:            Wed Jun 12 07:25:54 2024
+# [ok]

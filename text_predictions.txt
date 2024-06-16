@@ -1,0 +1,627 @@
+GCA_905183005.1_Paramecium_pentaurelia_V1_genomic (1).fna
+CAJJDO010000001.1
+  start     end
+CAJJDO010000002.1
+  start     end
+CAJJDO010000003.1
+  start     end
+CAJJDO010000004.1
+  start     end
+CAJJDO010000005.1
+  start     end
+CAJJDO010000006.1
+  start     end
+CAJJDO010000007.1
+  start     end
+CAJJDO010000008.1
+  start     end
+CAJJDO010000009.1
+  start     end
+CAJJDO010000010.1
+  start     end
+CAJJDO010000011.1
+  start     end
+CAJJDO010000012.1
+  start     end
+CAJJDO010000013.1
+  start     end
+CAJJDO010000014.1
+  start     end
+CAJJDO010000015.1
+  start     end
+CAJJDO010000016.1
+  start     end
+CAJJDO010000017.1
+  start     end
+CAJJDO010000018.1
+  start     end
+CAJJDO010000019.1
+  start     end
+CAJJDO010000020.1
+  start     end
+CAJJDO010000021.1
+  start     end
+CAJJDO010000022.1
+  start     end
+CAJJDO010000023.1
+  start     end
+CAJJDO010000024.1
+  start     end
+CAJJDO010000025.1
+  start     end
+CAJJDO010000026.1
+  start     end
+CAJJDO010000027.1
+  start     end
+CAJJDO010000028.1
+  start     end
+CAJJDO010000029.1
+  start     end
+CAJJDO010000030.1
+  start     end
+CAJJDO010000031.1
+  start     end
+CAJJDO010000032.1
+  start     end
+CAJJDO010000033.1
+  start     end
+CAJJDO010000034.1
+  start     end
+CAJJDO010000035.1
+  start     end
+CAJJDO010000036.1
+  start     end
+CAJJDO010000037.1
+  start     end
+CAJJDO010000038.1
+  start     end
+CAJJDO010000039.1
+  start     end
+CAJJDO010000040.1
+  start     end
+CAJJDO010000041.1
+  start     end
+CAJJDO010000042.1
+  start     end
+CAJJDO010000043.1
+  start     end
+CAJJDO010000044.1
+  start     end
+CAJJDO010000045.1
+  start     end
+  462057  462073
+  481042  481059
+  549918  549929
+  549975  549996
+  552457  552480
+  552523  552538
+CAJJDO010000046.1
+  start     end
+CAJJDO010000047.1
+  start     end
+CAJJDO010000048.1
+  start     end
+CAJJDO010000049.1
+  start     end
+CAJJDO010000050.1
+  start     end
+CAJJDO010000051.1
+  start     end
+CAJJDO010000052.1
+  start     end
+CAJJDO010000053.1
+  start     end
+CAJJDO010000054.1
+  start     end
+CAJJDO010000055.1
+  start     end
+CAJJDO010000056.1
+  start     end
+CAJJDO010000057.1
+  start     end
+CAJJDO010000058.1
+  start     end
+CAJJDO010000059.1
+  start     end
+CAJJDO010000060.1
+  start     end
+CAJJDO010000061.1
+  start     end
+CAJJDO010000062.1
+  start     end
+CAJJDO010000063.1
+  start     end
+CAJJDO010000064.1
+  start     end
+CAJJDO010000065.1
+  start     end
+CAJJDO010000066.1
+  start     end
+CAJJDO010000067.1
+  start     end
+CAJJDO010000068.1
+  start     end
+CAJJDO010000069.1
+  start     end
+CAJJDO010000070.1
+  start     end
+CAJJDO010000071.1
+  start     end
+CAJJDO010000072.1
+  start     end
+CAJJDO010000073.1
+  start     end
+CAJJDO010000074.1
+  start     end
+CAJJDO010000075.1
+  start     end
+CAJJDO010000076.1
+  start     end
+CAJJDO010000077.1
+  start     end
+CAJJDO010000078.1
+  start     end
+CAJJDO010000079.1
+  start     end
+CAJJDO010000080.1
+  start     end
+CAJJDO010000081.1
+  start     end
+CAJJDO010000082.1
+  start     end
+CAJJDO010000083.1
+  start     end
+CAJJDO010000084.1
+  start     end
+CAJJDO010000085.1
+  start     end
+CAJJDO010000086.1
+  start     end
+CAJJDO010000087.1
+  start     end
+CAJJDO010000088.1
+  start     end
+CAJJDO010000089.1
+  start     end
+CAJJDO010000090.1
+  start     end
+CAJJDO010000091.1
+  start     end
+CAJJDO010000092.1
+  start     end
+CAJJDO010000093.1
+  start     end
+CAJJDO010000094.1
+  start     end
+CAJJDO010000095.1
+  start     end
+CAJJDO010000096.1
+  start     end
+CAJJDO010000097.1
+  start     end
+CAJJDO010000098.1
+  start     end
+CAJJDO010000099.1
+  start     end
+CAJJDO010000100.1
+  start     end
+CAJJDO010000101.1
+  start     end
+CAJJDO010000102.1
+  start     end
+CAJJDO010000103.1
+  start     end
+CAJJDO010000104.1
+  start     end
+CAJJDO010000105.1
+  start     end
+CAJJDO010000106.1
+  start     end
+CAJJDO010000107.1
+  start     end
+CAJJDO010000108.1
+  start     end
+CAJJDO010000109.1
+  start     end
+CAJJDO010000110.1
+  start     end
+CAJJDO010000111.1
+  start     end
+CAJJDO010000112.1
+  start     end
+CAJJDO010000113.1
+  start     end
+CAJJDO010000114.1
+  start     end
+CAJJDO010000115.1
+  start     end
+CAJJDO010000116.1
+  start     end
+CAJJDO010000117.1
+  start     end
+CAJJDO010000118.1
+  start     end
+CAJJDO010000119.1
+  start     end
+CAJJDO010000120.1
+  start     end
+CAJJDO010000121.1
+  start     end
+CAJJDO010000122.1
+  start     end
+CAJJDO010000123.1
+  start     end
+CAJJDO010000124.1
+  start     end
+CAJJDO010000125.1
+  start     end
+CAJJDO010000126.1
+  start     end
+CAJJDO010000127.1
+  start     end
+CAJJDO010000128.1
+  start     end
+CAJJDO010000129.1
+  start     end
+CAJJDO010000130.1
+  start     end
+CAJJDO010000131.1
+  start     end
+CAJJDO010000132.1
+  start     end
+CAJJDO010000133.1
+  start     end
+CAJJDO010000134.1
+  start     end
+CAJJDO010000135.1
+  start     end
+CAJJDO010000136.1
+  start     end
+CAJJDO010000137.1
+  start     end
+CAJJDO010000138.1
+  start     end
+CAJJDO010000139.1
+  start     end
+CAJJDO010000140.1
+  start     end
+CAJJDO010000141.1
+  start     end
+CAJJDO010000142.1
+  start     end
+CAJJDO010000143.1
+  start     end
+CAJJDO010000144.1
+  start     end
+CAJJDO010000145.1
+  start     end
+CAJJDO010000146.1
+  start     end
+CAJJDO010000147.1
+  start     end
+CAJJDO010000148.1
+  start     end
+CAJJDO010000149.1
+  start     end
+CAJJDO010000150.1
+  start     end
+CAJJDO010000151.1
+  start     end
+CAJJDO010000152.1
+  start     end
+CAJJDO010000153.1
+  start     end
+CAJJDO010000154.1
+  start     end
+CAJJDO010000155.1
+  start     end
+CAJJDO010000156.1
+  start     end
+CAJJDO010000157.1
+  start     end
+CAJJDO010000158.1
+  start     end
+CAJJDO010000159.1
+  start     end
+CAJJDO010000160.1
+  start     end
+CAJJDO010000161.1
+  start     end
+CAJJDO010000162.1
+  start     end
+CAJJDO010000163.1
+  start     end
+CAJJDO010000164.1
+  start     end
+CAJJDO010000165.1
+  start     end
+CAJJDO010000166.1
+  start     end
+CAJJDO010000167.1
+  start     end
+CAJJDO010000168.1
+  start     end
+CAJJDO010000169.1
+  start     end
+CAJJDO010000170.1
+  start     end
+CAJJDO010000171.1
+  start     end
+CAJJDO010000172.1
+  start     end
+CAJJDO010000173.1
+  start     end
+CAJJDO010000174.1
+  start     end
+CAJJDO010000175.1
+  start     end
+CAJJDO010000176.1
+  start     end
+CAJJDO010000177.1
+  start     end
+CAJJDO010000178.1
+  start     end
+CAJJDO010000179.1
+  start     end
+CAJJDO010000180.1
+  start     end
+CAJJDO010000181.1
+  start     end
+CAJJDO010000182.1
+  start     end
+CAJJDO010000183.1
+  start     end
+CAJJDO010000184.1
+  start     end
+CAJJDO010000185.1
+  start     end
+CAJJDO010000186.1
+  start     end
+CAJJDO010000187.1
+  start     end
+CAJJDO010000188.1
+  start     end
+CAJJDO010000189.1
+  start     end
+CAJJDO010000190.1
+  start     end
+CAJJDO010000191.1
+  start     end
+CAJJDO010000192.1
+  start     end
+CAJJDO010000193.1
+  start     end
+CAJJDO010000194.1
+  start     end
+CAJJDO010000195.1
+  start     end
+CAJJDO010000196.1
+  start     end
+CAJJDO010000197.1
+  start     end
+CAJJDO010000198.1
+  start     end
+CAJJDO010000199.1
+  start     end
+CAJJDO010000200.1
+  start     end
+CAJJDO010000201.1
+  start     end
+CAJJDO010000202.1
+  start     end
+CAJJDO010000203.1
+  start     end
+CAJJDO010000204.1
+  start     end
+CAJJDO010000205.1
+  start     end
+CAJJDO010000206.1
+  start     end
+CAJJDO010000207.1
+  start     end
+CAJJDO010000208.1
+  start     end
+CAJJDO010000209.1
+  start     end
+CAJJDO010000210.1
+  start     end
+CAJJDO010000211.1
+  start     end
+CAJJDO010000212.1
+  start     end
+CAJJDO010000213.1
+  start     end
+CAJJDO010000214.1
+  start     end
+CAJJDO010000215.1
+  start     end
+CAJJDO010000216.1
+  start     end
+CAJJDO010000217.1
+  start     end
+CAJJDO010000218.1
+  start     end
+CAJJDO010000219.1
+  start     end
+CAJJDO010000220.1
+  start     end
+CAJJDO010000221.1
+  start     end
+CAJJDO010000222.1
+  start     end
+CAJJDO010000223.1
+  start     end
+CAJJDO010000224.1
+  start     end
+CAJJDO010000225.1
+  start     end
+CAJJDO010000226.1
+  start     end
+CAJJDO010000227.1
+  start     end
+CAJJDO010000228.1
+  start     end
+CAJJDO010000229.1
+  start     end
+CAJJDO010000230.1
+  start     end
+CAJJDO010000231.1
+  start     end
+CAJJDO010000232.1
+  start     end
+CAJJDO010000233.1
+  start     end
+CAJJDO010000234.1
+  start     end
+CAJJDO010000235.1
+  start     end
+CAJJDO010000236.1
+  start     end
+CAJJDO010000237.1
+  start     end
+CAJJDO010000238.1
+  start     end
+CAJJDO010000239.1
+  start     end
+CAJJDO010000240.1
+  start     end
+CAJJDO010000241.1
+  start     end
+CAJJDO010000242.1
+  start     end
+CAJJDO010000243.1
+  start     end
+CAJJDO010000244.1
+  start     end
+CAJJDO010000245.1
+  start     end
+CAJJDO010000246.1
+  start     end
+CAJJDO010000247.1
+  start     end
+CAJJDO010000248.1
+  start     end
+CAJJDO010000249.1
+  start     end
+CAJJDO010000250.1
+  start     end
+CAJJDO010000251.1
+  start     end
+CAJJDO010000252.1
+  start     end
+CAJJDO010000253.1
+  start     end
+CAJJDO010000254.1
+  start     end
+CAJJDO010000255.1
+  start     end
+CAJJDO010000256.1
+  start     end
+CAJJDO010000257.1
+  start     end
+CAJJDO010000258.1
+  start     end
+CAJJDO010000259.1
+  start     end
+CAJJDO010000260.1
+  start     end
+CAJJDO010000261.1
+  start     end
+CAJJDO010000262.1
+  start     end
+CAJJDO010000263.1
+  start     end
+CAJJDO010000264.1
+  start     end
+CAJJDO010000265.1
+  start     end
+CAJJDO010000266.1
+  start     end
+CAJJDO010000267.1
+  start     end
+CAJJDO010000268.1
+  start     end
+CAJJDO010000269.1
+  start     end
+CAJJDO010000270.1
+  start     end
+CAJJDO010000271.1
+  start     end
+CAJJDO010000272.1
+  start     end
+CAJJDO010000273.1
+  start     end
+CAJJDO010000274.1
+  start     end
+CAJJDO010000275.1
+  start     end
+CAJJDO010000276.1
+  start     end
+CAJJDO010000277.1
+  start     end
+CAJJDO010000278.1
+  start     end
+CAJJDO010000279.1
+  start     end
+CAJJDO010000280.1
+  start     end
+CAJJDO010000281.1
+  start     end
+CAJJDO010000282.1
+  start     end
+CAJJDO010000283.1
+  start     end
+CAJJDO010000284.1
+  start     end
+CAJJDO010000285.1
+  start     end
+CAJJDO010000286.1
+  start     end
+CAJJDO010000287.1
+  start     end
+CAJJDO010000288.1
+  start     end
+CAJJDO010000289.1
+  start     end
+CAJJDO010000290.1
+  start     end
+CAJJDO010000291.1
+  start     end
+CAJJDO010000292.1
+  start     end
+CAJJDO010000293.1
+  start     end
+CAJJDO010000294.1
+  start     end
+CAJJDO010000295.1
+  start     end
+CAJJDO010000296.1
+  start     end
+CAJJDO010000297.1
+  start     end
+CAJJDO010000298.1
+  start     end
+CAJJDO010000299.1
+  start     end
+CAJJDO010000300.1
+  start     end
+CAJJDO010000301.1
+  start     end
+CAJJDO010000302.1
+  start     end
+CAJJDO010000303.1
+  start     end
+CAJJDO010000304.1
+  start     end
+CAJJDO010000305.1
+  start     end
+CAJJDO010000306.1
+  start     end
+CAJJDO010000307.1
+  start     end
+CAJJDO010000308.1
+  start     end
+CAJJDO010000309.1
+  start     end
+CAJJDO010000310.1
+  start     end

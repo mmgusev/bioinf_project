@@ -1,0 +1,13 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      Pfam-A.hmm
+# Target file:     paramecium_pentaurelia.fasta
+# Option settings: hmmsearch --tblout test.out Pfam-A.hmm paramecium_pentaurelia.fasta 
+# Current dir:     /content
+# Date:            Wed Jun 12 07:25:54 2024
+# [ok]
